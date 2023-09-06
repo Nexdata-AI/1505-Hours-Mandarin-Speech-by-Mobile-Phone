@@ -4,7 +4,8 @@
 ## Description
 It collects 6,278 speakers' data from 33 provinces of China. 2,980 males and 3,298 females. The recording contents are commonly used colloquial sentences. It is recorded in both quiet and noisy environment. Annotated texts are transcribed and proofread by professional annotators. The accuracy is not less than 98%.
 
-For more details, please refer to the link: https://bit.ly/3SjaWrt
+For more details, please refer to the link: https://www.nexdata.ai/datasets/35?source=Github
+
 
 ## Format
 16kHz 16bit, uncompressed wav, mono channel
